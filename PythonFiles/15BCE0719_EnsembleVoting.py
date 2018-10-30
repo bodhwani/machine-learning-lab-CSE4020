@@ -8,7 +8,7 @@
 
 # In[1]:
 
-import pandas
+import pandas, numpy
 from sklearn import model_selection
 from sklearn.linear_model import LogisticRegression
 from sklearn.tree import DecisionTreeClassifier
